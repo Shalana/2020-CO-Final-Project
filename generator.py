@@ -1,6 +1,6 @@
 from random import randrange
 alphabet = ['A','C','G','T']
-read_count = 10
+read_count = 1000
 read_length = 64
 for i in range(read_count):
     read = ""
