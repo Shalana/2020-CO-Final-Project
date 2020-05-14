@@ -12,9 +12,10 @@ make sure your Cosmall.txt and FMIndex.cpp under the same folder.
 1. python generate.py | tee COsmall.txt
 
 #  Please make sure that your program can pass the following pattern.
-#  if you pass, you will get all the scores of correctness.
-#  TA will use P10000 to test your performance 
 1. P1000、P3000、P10000 
+   * If you pass, you will get all the scores of correctness.
+   * TA will use P10000 to test your performance 
+
 
 
 If you have any confusion or suggestions, please let us know. Thanks.
