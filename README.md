@@ -6,7 +6,7 @@
 # How to execute this program ?
 make sure your Cosmall.txt and FMIndex.cpp under the same folder.
 1. g++ FMIndex.cpp -o FMIndex.o
-2. ./FMIndex.o
+2. ./FMIndex.o Cosmall.txt
 
 # How to generate new data ? 
 1. python generate.py | tee COsmall.txt
